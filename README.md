@@ -33,10 +33,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Files 
 
-images
-    PacMan1.png
-    PacMan2.png
-    PacMan3.png
-    PacMan4.png
-index.html
-pacmen.js
+*images
+    **PacMan1.png
+    **PacMan2.png
+    **PacMan3.png
+    **PacMan4.png
+*index.html
+*pacmen.js
