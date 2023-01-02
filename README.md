@@ -39,6 +39,4 @@ Files
 - PacMan3.png
 - PacMan4.png
 - index.html
-
-
-*pacmen.js
+- pacmen.js
